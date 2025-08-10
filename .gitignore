@@ -1,0 +1,10 @@
+# Ignore environment files in client and server
+client/.env
+server/.env
+
+# Optional: ignore all .env files anywhere in repo
+*.env
+
+#ingonre node modules file
+node_mudules/
+
