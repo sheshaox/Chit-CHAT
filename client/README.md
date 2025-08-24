@@ -1,12 +1,40 @@
-# React + Vite
+# 💬 Chit-Chat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chit-Chat is a real-time chat application built with **React, Node.js, Express, MongoDB, and Socket.io**.  
+It supports **real-time messaging, image sharing, online/offline status tracking, and user authentication**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##🚀 Features
+- 🔐 User authentication (Sign up / Login with JWT)
+- 👤 User profile with bio and avatar
+- 🟢 Online/offline status tracking
+- 💬 Real-time messaging using Socket.io
+- 🖼️ Image sharing in chats
+- 📱 Responsive UI built with Tailwind CSS
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+Frontend
+- React + Vite
+- Tailwind CSS
+- React Router
+- React Context API
+
+**Backend**
+- Node.js
+- Express.js
+- MongoDB + Mongoose
+- Socket.io
+- Cloudinary (for image upload)
+- JWT Authentication
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/YOUR-USERNAME/chit-chat.git
+cd chit-chat
