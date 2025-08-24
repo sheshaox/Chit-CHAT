@@ -37,7 +37,7 @@ It supports **real-time messaging, image sharing, online/offline status tracking
 ### 1️⃣ Clone the Repository
 git clone https://github.com/YOUR-USERNAME/chit-chat.git
 cd chit-chat
-
+--------------------------------------------------------------------------------------
 
 
 ## ⚙️ Installation & Setup
