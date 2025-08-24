@@ -39,4 +39,3 @@ Frontend
 git clone https://github.com/YOUR-USERNAME/chit-chat.git
 cd chit-chat
 
-Complete Steps of installatioin and setup
